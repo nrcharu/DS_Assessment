@@ -1,0 +1,21 @@
+{
+  "name": "cy-ds-project",
+  "version": "1.0.0",
+  "description": "tests for job application site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charumathi Nagarajan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.0",
+    "cypress-commands": "^3.0.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-iframe": "^1.0.1",
+    "cypress-mochawesome-reporter": "^3.5.1",
+    "factory-bot": "^6.3.1",
+    "faker": "^5.5.3",
+    "mochawesome": "^7.1.3"
+  }
+}
